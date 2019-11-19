@@ -8,8 +8,8 @@
     background-color: #ffffff;
 }
 img     {
-    width: 75%;
-    padding: 7% 2% 2% 2%;
+    width: 90%;
+    padding: 2% 2% 2% 2%;
 }
 
 #spacing    {
@@ -40,8 +40,23 @@ li  {
     text-align: center;
 }
 
+
+#border  {
+    border-right: 1px solid #cccccc;
+}
+
+#noborder    {
+    border-right: none;
+}
+
 footer  {
     position: fixed;
     width: 100%;
     bottom: 0px;
+    text-align: center;
+}
+
+h2  {
+    border-bottom: 3px #dddddd solid;
+    color:  #4aaaa5;
 }
