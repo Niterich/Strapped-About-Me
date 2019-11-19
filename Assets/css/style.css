@@ -22,8 +22,9 @@ p   {
 
 nav .navbar-brand  {
     background-color: #4aaaa5;
-    width: 100%;
+    max-width: 640px;
     text-align: center;
+    width: 100%;
 }
 
 nav {
@@ -33,4 +34,14 @@ nav {
 footer {
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
+}
+
+li  {
+    text-align: center;
+}
+
+footer  {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
 }
