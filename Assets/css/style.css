@@ -100,3 +100,97 @@ label   {
 #max    {
     max-width: 100%;
 }
+
+/* CSS for Portfolio */
+
+.project1 {
+    background-image: url("../images/project1.jpeg");
+    background-size: cover;
+    width: 12em;
+    height: 12em; 
+    position: relative;
+    display: inline-block;
+}
+.title1 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    padding: 4% 0;
+    font-size: 20px;
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+}
+.project2 {
+    background-image: url("../images/project2.jpg");
+    background-size: cover;
+    width: 12em;
+    height: 12em;
+    position: relative;
+    /* float: left; */
+    /* margin-left: 300px; */
+
+}
+.title2 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    padding: 4% 0;
+    font-size: 20px;
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+}
+.project3 {
+    background-image: url("../images/project3.jpg");
+    background-size: cover;
+    width: 12em;
+    height: 12em;
+    position: relative;
+}
+.title3 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    padding: 4% 0;
+    font-size: 20px;
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+}
+.project4 {
+    background-image: url("../images/project4.jpeg");
+    background-size: cover;
+    width: 12em;
+    height: 12em;
+    position: relative;
+    display: inline-block;
+}
+.title4 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    padding: 4% 0;
+    font-size: 20px;
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+}
+.project5 {
+    background-image: url("../images/project5.jpeg");
+    background-size: cover;
+    width: 12em;
+    height: 12em;
+    position: relative;
+    float: right;
+}
+.title5 {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    padding: 4% 0;
+    font-size: 20px;
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+}
