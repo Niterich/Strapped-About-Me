@@ -5,8 +5,6 @@ GitHub Repo link: https://github.com/Niterich/Strapped-About-Me
 
 GitHub Pages link: https://niterich.github.io/Strapped-About-Me/
 
-Screenshots of responsiveness are located inside the Assets/images/Screenshots folder of the repo.
-
 ![About-640](https://user-images.githubusercontent.com/52295078/69906836-ef539880-1386-11ea-98e2-cec0dda89f4e.png)
 ![About-768](https://user-images.githubusercontent.com/52295078/69906837-f11d5c00-1386-11ea-9afb-d5ba58d9c5f0.png)
 ![About-980](https://user-images.githubusercontent.com/52295078/69906838-f2e71f80-1386-11ea-9193-d4a81063b6f7.png)
