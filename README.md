@@ -1,5 +1,5 @@
 # Strapped-About-Me
-About Me but with Bootstrap
+My About Me page but designed with Bootstrap for responsiveness.
 
 GitHub Repo link: https://github.com/Niterich/Strapped-About-Me
 
