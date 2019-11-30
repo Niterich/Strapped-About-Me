@@ -1,4 +1,4 @@
-# About-Me-Strapped
+# Strapped-About-Me
 About Me but with Bootstrap
 
 GitHub Repo link: https://github.com/Niterich/Strapped-About-Me
